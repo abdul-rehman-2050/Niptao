@@ -12,6 +12,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.TextView;
 
+import com.fypsolutions.niptao.ui.DashboardActivity;
 import com.fypsolutions.niptao.ui.MainActivity;
 
 public class SplashActivity extends AppCompatActivity {
@@ -40,7 +41,7 @@ public class SplashActivity extends AppCompatActivity {
 
 
                 textView.setVisibility(View.INVISIBLE);
-                Intent myIntent = new Intent(SplashActivity.this, MainActivity.class);
+                Intent myIntent = new Intent(SplashActivity.this, DashboardActivity.class);
                 SplashActivity.this.startActivity(myIntent);
                 finish();
             }
