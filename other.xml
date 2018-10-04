@@ -1,0 +1,17 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://abdul-rehman-2050@bitbucket.org/parhaku/parkakuprerelease" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://abdul-rehman-2050@bitbucket.org/parhaku/parkakuprerelease" />
+      </list>
+    </option>
+  </component>
+</application>
